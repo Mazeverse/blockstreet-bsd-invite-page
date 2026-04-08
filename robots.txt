@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blockstreet-bsd-token-landing.vercel.app/sitemap.xml
